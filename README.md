@@ -1,0 +1,1 @@
+Para correr este código correctamente es necesario trabajar con un sistema operativo diferente a windows dados los requerimentos de la librería Fenics
